@@ -42,15 +42,6 @@ All Mag in column’s name replaced by Magnitude
 All start with character f in column’s name replaced by Frequency
 All start with character t in column’s name replaced by Time
 
-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
-FinalData (180 rows, 88 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
-Export FinalData into FinalData.txt file.
-
-
-README
-Peer-graded Assignment: Getting and Cleaning Data Course Project
-This repository is a Nunno Nugroho submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
-
 Dataset
 Human Activity Recognition Using Smartphones
 
